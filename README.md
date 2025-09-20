@@ -30,3 +30,6 @@ Open a browser or use Postman to access http://127.0.0.1:5000/health
   "Npontu Technologies LTD": "healthy",
   "non existing service": "unhealthy"
 }
+
+## Analysis: What happens when one service goes down
+When one of the monitored services is down, it is reported as "unhealthy" in the /health endpoint. Other services continue to be monitored normally. This allows you to see which endpoints are working and which are not during local testing.
