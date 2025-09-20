@@ -1,3 +1,8 @@
+"""
+Assignment: Build a simple health check service that monitors 3 endpoints
+Author: Delice Ishimwe
+Description of the Task: Flask app to check health status of multiple endpoints (I tested locally)
+"""
 from flask import Flask, jsonify
 import requests
 
