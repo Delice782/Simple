@@ -8,10 +8,10 @@ The service indicates whether each endpoint is healthy (responds with HTTP 200) 
 
 ## Endpoints Monitored
 
-#### Name                                            URL
-Kedebah Website                           https://npontu.com
-Npontu Technologies LTD                   https://kedebah.npontu.com
-non existing service                      https://xyZwvu.com
+#### Name                                            
+Kedebah Website                 URL: https://npontu.com
+Npontu Technologies LTD         URL: https://kedebah.npontu.com
+non existing service            URL: https://xyZwvu.com
 
 ## Running the Service
 Run the Flask app: python simple_health_check.py
