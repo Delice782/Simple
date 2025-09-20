@@ -21,7 +21,7 @@ Run the Flask app: python simple_health_check.py
 The server will start at http://127.0.0.1:5000
 
 ## Usage
-open a browser or use Postman to access http://127.0.0.1:5000/health
+Open a browser or use Postman to access http://127.0.0.1:5000/health
 
 ## Example JSON output from local testing:
 
