@@ -1,4 +1,4 @@
-  
+   
 # Simple Health Check Service
 
 ## Overview
